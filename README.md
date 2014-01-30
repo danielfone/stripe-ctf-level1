@@ -1,3 +1,10 @@
+## Solution
+
+Simply move the while loop into a single ruby process and use Digest::SHA1. Slow, but fast enough to beat the level.
+
+---
+
+
 # Gitcoin
 
 Welcome to the wonderful world of Gitcoin!
